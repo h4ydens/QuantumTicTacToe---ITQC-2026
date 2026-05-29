@@ -144,7 +144,7 @@ def run_ui(on_move, on_reset, state):
                         message = f"Player {state['current_player']} — pick two cells"
                         sub     = ""
  
-        # --- draw ---
+        # draw
         screen.fill(BG)
  
         # title
