@@ -34,8 +34,4 @@ Files and Description
 `quokka_client.py` - Quokka API call
  
 ### Students
-Creator: Hayden, Hayden.Stokes@student.uts.edu.au
-Quantum Lead: Tamanpreet, Tamanpreet.s.chawla@student.uts.edu.au
-Reyhan, Reyhan.ahmed@student.uts.edu.au
-Yash, Yash.drolia@student.uts.edu.au
-Jack, Jack.Lemair@student.uts.edu.au
+Creator: H4y
